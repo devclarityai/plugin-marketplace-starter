@@ -1,0 +1,7 @@
+{
+  "name": "dev-toolkit",
+  "description": "Three small, genuinely useful dev skills: commit-message, pr-summary, changelog-entry. Copy this directory as a template for your own multi-skill plugins.",
+  "author": {
+    "name": "Your Company"
+  }
+}

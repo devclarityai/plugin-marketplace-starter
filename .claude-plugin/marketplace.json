@@ -1,0 +1,22 @@
+{
+  "name": "plugin-marketplace-starter",
+  "description": "Starter marketplace — fork this, rename it, and use it to distribute your team's Claude Code skills.",
+  "owner": {
+    "name": "Your Company",
+    "email": "you@example.com"
+  },
+  "plugins": [
+    {
+      "name": "simple-demo",
+      "source": "./plugins/simple-demo",
+      "description": "A one-skill demo plugin. Install it to confirm your marketplace works end to end, then delete it.",
+      "category": "demo"
+    },
+    {
+      "name": "dev-toolkit",
+      "source": "./plugins/dev-toolkit",
+      "description": "Three small, genuinely useful dev skills (commit-message, pr-summary, changelog-entry). Copy it as a template for your own multi-skill plugins.",
+      "category": "productivity"
+    }
+  ]
+}
