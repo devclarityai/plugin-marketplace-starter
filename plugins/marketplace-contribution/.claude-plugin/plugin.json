@@ -1,0 +1,8 @@
+{
+  "name": "marketplace-contribution",
+  "description": "Two skills for growing this marketplace: contribute-plugin walks someone from an idea or a local skill to a reviewed plugin and an open pull request, and review-plugin reviews a plugin against this marketplace's own rules.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Company"
+  }
+}

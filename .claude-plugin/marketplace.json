@@ -17,6 +17,12 @@
       "source": "./plugins/dev-toolkit",
       "description": "Three small, genuinely useful dev skills (commit-message, pr-summary, changelog-entry). Copy it as a template for your own multi-skill plugins.",
       "category": "productivity"
+    },
+    {
+      "name": "marketplace-contribution",
+      "source": "./plugins/marketplace-contribution",
+      "description": "Helps people add their skills to this marketplace and reviews new plugins before they merge. Keep it once the marketplace is yours.",
+      "category": "productivity"
     }
   ]
 }
